@@ -1,0 +1,20 @@
+{
+  "name": "com.stijnvancoillie.raymarching.helpers",
+  "version": "0.0.1",
+  "displayName": "Ray Marching Helpers",
+  "description": "Helpers for ray marching shaders.",
+  "unity": "2020.1",
+  "author":
+  {
+    "name": "Stijn Van Coillie",
+    "email": "",
+    "url": ""
+  },
+  "samples": [
+        {
+            "displayName": "#Include",
+            "description": "Contains a shader example on how to include the ray marching helpers cginc into a custom shader.",
+            "path": "Samples~/Include"
+        }
+    ]
+}
